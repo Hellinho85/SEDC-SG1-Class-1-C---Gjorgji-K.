@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\bin\Debug\Traffic lights exercise.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\bin\Debug\Traffic lights exercise.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\bin\Debug\Traffic lights exercise.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\obj\Debug\Traffic lights exercise.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\obj\Debug\Traffic lights exercise.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\obj\Debug\Traffic lights exercise.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Traffic lights exercise\Traffic lights exercise\obj\Debug\Traffic lights exercise.pdb
