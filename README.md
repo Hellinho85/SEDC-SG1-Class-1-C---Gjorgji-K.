@@ -1,3 +1,3 @@
-# SEDC-SG1-Class-1-C---Gjorgji-K.
+# Homework no.1
 Class 1 repo
 SG1 C# exercise
